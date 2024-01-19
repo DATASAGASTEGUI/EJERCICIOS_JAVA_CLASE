@@ -1,0 +1,82 @@
+[
+    {
+        "GNP": 828,
+        "_id": "00005de917d80000000000000000",
+        "Code": "ABW",
+        "Name": "Aruba",
+        "IndepYear": null,
+        "geography": {
+            "Region": "Caribbean",
+            "Continent": "North America",
+            "SurfaceArea": 193
+        },
+        "government": {
+            "HeadOfState": "Beatrix",
+            "GovernmentForm": "Nonmetropolitan Territory of The Netherlands"
+        },
+        "demographics": {
+            "Population": 103000,
+            "LifeExpectancy": 78.4000015258789
+        }
+    },  
+    {
+        "GNP": 5976,
+        "_id": "00005de917d80000000000000001",
+        "Code": "AFG",
+        "Name": "Afghanistan",
+        "IndepYear": 1919,
+        "geography": {
+            "Region": "Southern and Central Asia",
+            "Continent": "Asia",
+            "SurfaceArea": 652090
+        },
+        "government": {
+            "HeadOfState": "Mohammad Omar",
+            "GovernmentForm": "Islamic Emirate"
+        },
+        "demographics": {
+            "Population": 22720000,
+            "LifeExpectancy": 45.900001525878906
+        }
+    },      
+    {
+        "GNP": 6648,
+        "_id": "00005de917d80000000000000002",
+        "Code": "AGO",
+        "Name": "Angola",
+        "IndepYear": 1975,
+        "geography": {
+            "Region": "Central Africa",
+            "Continent": "Africa",
+            "SurfaceArea": 1246700
+        },
+        "government": {
+            "HeadOfState": "José Eduardo dos Santos",
+            "GovernmentForm": "Republic"
+        },
+        "demographics": {
+            "Population": 12878000,
+            "LifeExpectancy": 38.29999923706055
+        }
+    },                
+    {
+        "GNP": 63.20000076293945,
+        "_id": "00005de917d80000000000000003",
+        "Code": "AIA",
+        "Name": "Anguilla",
+        "IndepYear": null,
+        "geography": {
+            "Region": "Caribbean",
+            "Continent": "North America",
+            "SurfaceArea": 96
+        },
+        "government": {
+            "HeadOfState": "Elizabeth II",
+            "GovernmentForm": "Dependent Territory of the UK"
+        },
+        "demographics": {
+            "Population": 8000,
+            "LifeExpectancy": 76.0999984741211
+        }
+    }
+]
